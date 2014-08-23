@@ -6,7 +6,7 @@ This is the sample project for autoresizing UITextView interactives with Keyboar
 ## Environment
 
 - Xcode5.1.1
-- Using UIStoryboard
+- Using UIStoryboard and AutoLayout
 - Using ARC
 
 ## Resize TextView with Keyboard size
