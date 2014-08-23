@@ -9,7 +9,7 @@ This is the sample project for autoresizing UITextView interactives with Keyboar
 - Using UIStoryboard and AutoLayout
 - Using ARC
 
-## Resize TextView with Keyboard size
+## Resize TextView according to Keyboard size
 
 You may think that the input field - UITextView - sometimes behind the keyboard, or you want automatically change the size of text view according the states - inputing or viewing. At that time, this sample project maybe help you.
 
